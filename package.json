@@ -1,0 +1,19 @@
+{
+  "name": "veco",
+  "version": "1.0.0",
+  "description": "A virtual ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpdupuis/veco.git"
+  },
+  "author": "Chris DuPuis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cpdupuis/veco/issues"
+  },
+  "homepage": "https://github.com/cpdupuis/veco#readme"
+}

@@ -1,2 +1,2 @@
-# veco
-A Virtual Ecosystem
+# veco: A Virtual Ecosystem
+
